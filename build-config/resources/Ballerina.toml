@@ -7,6 +7,7 @@ license = ["Apache-2.0"]
 authors = ["Ballerina"]
 keywords = ["ballerina", "associations", "Vendor/HubSpot", "Area/CRM & Sales", "Type/Connector"]
 repository = "https://github.com/ballerina-platform/module-ballerinax-hubspot.crm.associations"
+icon = "icon.png"
 
 [build-options]
 observabilityIncluded = true
